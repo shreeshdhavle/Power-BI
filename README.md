@@ -6,4 +6,4 @@ Hands on Practical approach on Power BI
 * Approach:
 From uploading data to creating custom column, appending data to query.
 Adding index, cleaning up data then relating tables in the model. 
-The merging data while showing and hiding queries.
+The merging data while showing and hiding queries. Creating  interactive Dashboard and Mobile view.
